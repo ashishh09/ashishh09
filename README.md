@@ -1,44 +1,18 @@
 # 👋 Hi, I'm Ashish Bhoite
 
-### ☕ Java Backend Developer | ⚙️ DevOps Enthusiast | 🎓 BTech CSE
+### Java Developer | Full Stack Developer | DevOps Enthusiast
 
-I build backend applications with **Java & Spring Boot** and I'm currently exploring **DevOps, Docker, Cloud and CI/CD**.
+🎓 B.Tech CSE Student
+💻 Learning and building skills in Java, Full Stack Development & DevOps.
 
-## 🚀 About Me
+### 🛠️ Skills
 
-* 🎓 BTech CSE Student
-* ☕ Java & Spring Boot
-* 🌐 REST APIs & Backend Development
-* 🗄️ MySQL & SQL
-* 🐳 Docker & DevOps
-* 🧠 DSA & Problem Solving
+* **Languages:** Java, C, C++, SQL
+* **Learning:** Spring Boot, REST APIs, MySQL
+* **Full Stack:** Learning Frontend & Backend Development
+* **DevOps:** Learning Linux, Git, GitHub, Docker & CI/CD
+* **Currently Improving:** DSA & Development Skills
 
-## 🛠️ Skills
+### 🚀 Goal
 
-**Java • Spring Boot • REST API • MySQL • SQL • Git • GitHub • Linux • Docker • Maven**
-
-## 🔥 Project
-
-### 🏥 Health Tracker
-
-A web application for tracking daily habits, water intake, tasks and progress.
-
-**Tech:** TypeScript • Web Development • Database • Deployment
-
-## 📚 Currently Learning
-
-**Spring Boot → DSA → Docker → CI/CD → AWS**
-
-## 🎯 Career Focus
-
-**Java Backend Development | Spring Boot | DevOps**
-
-Looking for **internship and entry-level opportunities** to build real-world software and grow as a developer.
-
-## 🤝 Connect
-
-**LinkedIn:** (https://www.linkedin.com/in/ashish-bhoite-7228683a3)
-
----
-
-### Build • Learn • Deploy • Repeat 🚀
+To become a skilled Java Full Stack Developer with strong DevOps knowledge.
